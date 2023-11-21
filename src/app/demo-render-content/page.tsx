@@ -1,7 +1,6 @@
 'use client'
 import Image from 'next/image'
 import { useEffect, useState, useContext } from 'react'
-import { getServerSideProps } from 'next
 
 
 	const Component = () => {
