@@ -46,7 +46,3 @@ export default function renderFromSymfony(){
 	)
 
 }
-
-export const getServerProps = (async (context) => {
-	const res = await 
-})
